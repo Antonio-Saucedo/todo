@@ -25,11 +25,6 @@ Due to Java not supporting JSON files, we can only run this on an IDE like Visua
 * [Integrate Java in VSCode](https://code.visualstudio.com/docs/languages/java)
 * [w3schools](https://www.w3schools.com/java/default.asp)
 * [json-simple](https://code.google.com/archive/p/json-simple/downloads)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
